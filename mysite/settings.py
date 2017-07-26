@@ -25,7 +25,7 @@ SECRET_KEY = 'h_ho24z*x^mx8lxj=zx=4q@psfuei@6-tmy=&&!u4s5a^0&liy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<ebouton>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'erinmbouton.pythonanywhere.com']
 
 
 # Application definition
